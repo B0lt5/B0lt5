@@ -1,9 +1,6 @@
 👋 Hi, I'm Kitan (you can call me KT )<br>
 👀 I'm a tech enthusiast passionate about coding , problem-solving , and building cool stuff with technology<br>
-🌱 I'm currently learning:<br>
-  JavaScript<br>
-  Python<br>
-  HTML/CSS<br>
+🌱 I'm currently learning: JavaScript | Python | HTML/CSS
 📫 You can reach me via email at: ayoli2020@gmail.com
 
 🎓 About Me<br>
