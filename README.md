@@ -1,6 +1,6 @@
--👋 Hi, I'm Kitan (you can call me KT )
--👀 I'm a tech enthusiast passionate about coding , problem-solving , and building cool stuff with technology
--🌱 I'm currently learning:
+👋 Hi, I'm Kitan (you can call me KT )
+👀 I'm a tech enthusiast passionate about coding , problem-solving , and building cool stuff with technology
+🌱 I'm currently learning:
   JavaScript
   Python
   HTML/CSS
