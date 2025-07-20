@@ -1,7 +1,18 @@
-- 👋 Hi, I’m Kitan but you can call me KT
-- 👀 I’m interested in Coding, Gaming, Movies & TV Shows
-- 🌱 I’m currently learning JavaScript, Python, HTML/CSS
-- 📫 You can reach me at my email address, ayoli2020@gmail.com
-- 😄 Pronouns: He/His [I ain't part of that community]
+👋 Hi, I'm Kitan (you can call me KT )
+👀 I'm a tech enthusiast passionate about coding , problem-solving , and building cool stuff with technology
+🌱 I'm currently learning:
+  JavaScript
+  Python
+  HTML/CSS
+📫 You can reach me via email at: ayoli2020@gmail.com
 
+🎓 About Me
+I'm a 100-level student studying Management Information Systems at Covenant University , with a strong interest in bridging technology and business through software development and systems design. I'm actively learning front-end development and exploring Python for backend and automation.
+
+💻 Tech Stack
+Languages: HTML | CSS | JavaScript | Python
+Tools: GitHub | VS Code
+
+📚 Learning Journey
+I'm currently focused on mastering the fundamentals of web development and scripting , with plans to explore full-stack development, data analysis, and MIS-related tech solutions.
 
