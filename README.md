@@ -5,7 +5,7 @@ Introduction
 📫 You can reach me via email at: ayoli2020@gmail.com
 
 🎓 About Me<br>
-I'm a 200-level student studying Management Information Systems at Covenant University , with a strong interest in bridging technology and business through software development and systems design. I'm actively learning front-end development and exploring Python for backend and automation.
+I am currently studying Management Information Systems (MIS) at Covenant University , with a strong interest in bridging technology and business through software development and systems design. I'm actively learning front-end development and exploring Python for backend and automation.
 
 💻 Tech Stack<br>
 Languages: HTML | CSS | JavaScript | Python<br>
